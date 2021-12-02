@@ -4,9 +4,13 @@
 3. 当然提交是需要审核的 由于管理员们很勤奋 ~~只有我是懒导致的闲~~ 所以每份提交都会很快得到结果
 
 当然如果你不会使用 Git 以及 Github 有下面的链接可能会对你有帮助
+
 [git 安装和使用](https://blog.csdn.net/Small_Yogurt/article/details/104966939)
+
 [github 官方文档](https://docs.github.com/cn)
+
 [在 github 实现 pull request](https://blog.csdn.net/thinking_fioa/article/details/79516352?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-8.opensearchhbase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-8.opensearchhbase)
+
 当然我个人安装 git 只是将安装目录修改到了想要放置的地方 其他一路默认(windows 端)
 
 
