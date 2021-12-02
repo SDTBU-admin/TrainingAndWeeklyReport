@@ -14,6 +14,14 @@
 
 当然我个人安装 git 只是将安装目录修改到了想要放置的地方 其他一路默认(windows 端)
 
+周报提交在 `weekly` 文件夹下的指定日期内
+
+分享在 `share` 目录下 
+- 算法文件夹为 `algorithm`
+- 工具组件为 `toolsOrcomponents` 
+
+
+
 
 
 ## 周报格式
