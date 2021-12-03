@@ -10,7 +10,6 @@
 
 [github 官方文档](https://docs.github.com/cn)
 
-[在 github 实现 pull request](https://blog.csdn.net/thinking_fioa/article/details/79516352?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-8.opensearchhbase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-8.opensearchhbase)
 
 当然我个人安装 git 只是将安装目录修改到了想要放置的地方 其他一路默认(windows 端)
 
