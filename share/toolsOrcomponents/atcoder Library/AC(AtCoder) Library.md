@@ -80,7 +80,7 @@ S seg.get(int p)
 返回 `a[p]` 的值
 
 -  `p` 应满足  `0 ≤ p  ≤ n`
--  时间复杂度为 O (${1}$)
+-  时间复杂度为 O (1)
 
 ##### prod 区间查询
 
@@ -130,6 +130,7 @@ S seg.all_prod()
 - `f(e()) == true`  
 - `0 ≤ r ≤ n`
 
+时间复杂度为 O(log n) 
 
 
 ##### min_left
