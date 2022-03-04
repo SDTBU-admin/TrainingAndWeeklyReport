@@ -18,11 +18,11 @@
 
 分享在 `share` 目录下 
 - 算法文件夹为 `algorithm`
-- 工具组件为 `toolsOrcomponents` 
+- 工具组件为 `toolsOrcomponents`
+ 
 
+周报现在位于 `weekly/2022/周报` 内
 
-
-## 周报现在位于 2022/周报内
 
 ## 周报格式
 ### 周报
