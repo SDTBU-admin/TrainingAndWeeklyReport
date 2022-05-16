@@ -21,7 +21,11 @@
 - 工具组件为 `toolsOrcomponents`
  
 
-周报现在位于 `weekly/2022/周报` 内
+周报现在位于 `weekly/20xx/WeeklyReport` 内
+
+个人补题位于 `weekly/20xx/Personal`
+
+团队补题位于 `weekly/20xx/Team`
 
 
 ## 周报格式
