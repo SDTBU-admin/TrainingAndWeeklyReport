@@ -8,9 +8,14 @@
 
 当然如果你不会使用 Git 以及 Github 有下面的链接可能会对你有帮助
 
-[git 安装和使用](https://blog.csdn.net/Small_Yogurt/article/details/104966939)
+[Git 安装和使用](https://blog.csdn.net/Small_Yogurt/article/details/104966939)
 
-[github 官方文档](https://docs.github.com/cn)
+[Git book](!https://git-scm.com/book/zh/v2)
+
+[GitHub 漫游指南](!https://github.phodal.com/#/)
+
+[Github 官方文档](https://docs.github.com/cn)
+
 
 当然我个人安装 git 只是将安装目录修改到了想要放置的地方 其他一路默认(windows 端)
 
