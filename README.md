@@ -10,6 +10,8 @@
 
 [Git 安装和使用](https://blog.csdn.net/Small_Yogurt/article/details/104966939)
 
+**Git 入门:**
+
 [Git book](https://git-scm.com/book/zh/v2)
 
 [GitHub 漫游指南](https://github.phodal.com/#/)
